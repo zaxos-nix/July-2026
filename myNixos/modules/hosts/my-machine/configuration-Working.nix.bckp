@@ -109,8 +109,8 @@
         # fish is omitted here — programs.fish.enable installs it system-wide
         htop
         mpv
-        img
-        pcmanfm
+        imv
+        ghostty
         nemo
         zathura
         ntfs3g
